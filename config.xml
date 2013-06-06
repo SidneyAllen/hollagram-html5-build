@@ -3,14 +3,14 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.stackmob.hollagramjs"
         versionCode="10" 
-        version   = "1.0.3">
+        version   = "1.0.4">
 
     <!-- versionCode is optional and Android only -->
 
     <name>Hollagram HTML5</name>
 
     <description>
-        Holla Everyone!
+        Hollagram a StackMob Demo App created with Backbone.js optimized and built with Require.js. 
     </description>
 
     <author href="https://www.stackmob.com" email="sid@stackmob.com">
